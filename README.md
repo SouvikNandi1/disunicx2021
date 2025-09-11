@@ -109,7 +109,7 @@ DisunicX is an open-source project created for educational and privacy-awareness
 
 ## 📄 License
 
-This project is open source. Please add a license file (e.g., MIT, GPL) to define the terms under which it can be used, modified, and distributed.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
