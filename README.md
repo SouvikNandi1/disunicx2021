@@ -100,6 +100,9 @@ Souvik Nandi - souviknandi.11.2004@gmail.com - Telegram: t.me/SouvikNandi1
 
 Project Link: https://github.com/SouvikNandi1/disunicx2021
 
-![disunicx](https://github.com/user-attachments/assets/c926c61a-9606-4867-b108-965d36f69034)![disunicxlight](https://github.com/user-attachments/assets/8dc232c9-3f5d-43f4-be83-164dfc4bd628)
+![disunicxdark](https://github.com/user-attachments/assets/a702931a-4f65-446f-9d26-3e572c436b21)
+![disunicxlight](https://github.com/user-attachments/assets/a2631ad5-d66a-4d2f-93f7-70040ab52a52)
+
+
 
 
